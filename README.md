@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A GitHub app built with probot that welcomes new users.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Can be configured to generate custom messages.
 
 ## Getting started
 
